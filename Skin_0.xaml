@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WPF_Thumbnails">
+
+    <Color x:Key="PrimaryColour">#A8AD00</Color>
+    <Color x:Key="SecondaryColour">#C6CB00</Color>
+    <Color x:Key="DrkPrimaryColour">#FF1C1D00</Color>
+    <Color x:Key="DrkSecondaryColour">#FF6F7200</Color>
+</ResourceDictionary>
